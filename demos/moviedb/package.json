@@ -1,0 +1,25 @@
+{
+  "name": "movie-db",
+  "version": "0.0.1",
+  "description": "A demo of te Lovefield library using a small movie database.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/google/lovefield"
+  },
+  "author": "Google, Inc.",
+  "license": "http://www.apache.org/licenses/LICENSE-2.0",
+  "bugs": {
+    "url": "https://github.com/google/lovefield/issues"
+  },
+  "homepage": "https://github.com/google/lovefield",
+  "devDependencies": {
+    "bootstrap": "^3.3.5",
+    "bootstrap-table": "^1.8.1",
+    "fs-extra": "^0.24.0",
+    "gulp": "^3.9.1",
+    "gulp-webserver": "^0.9.1",
+    "jquery": "^3.4.1",
+    "lovefield": "google/lovefield#master",
+    "nopt": "^3.0.4"
+  }
+}
